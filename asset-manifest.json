@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mishuleu15/Shopping-Cart/static/css/main.f8fb891a.chunk.css",
+    "main.js": "/mishuleu15/Shopping-Cart/static/js/main.dae72311.chunk.js",
+    "main.js.map": "/mishuleu15/Shopping-Cart/static/js/main.dae72311.chunk.js.map",
+    "runtime-main.js": "/mishuleu15/Shopping-Cart/static/js/runtime-main.09f463c6.js",
+    "runtime-main.js.map": "/mishuleu15/Shopping-Cart/static/js/runtime-main.09f463c6.js.map",
+    "static/js/2.5b012ebe.chunk.js": "/mishuleu15/Shopping-Cart/static/js/2.5b012ebe.chunk.js",
+    "static/js/2.5b012ebe.chunk.js.map": "/mishuleu15/Shopping-Cart/static/js/2.5b012ebe.chunk.js.map",
+    "index.html": "/mishuleu15/Shopping-Cart/index.html",
+    "precache-manifest.4baf02352169ceb8021676c6c8fd253f.js": "/mishuleu15/Shopping-Cart/precache-manifest.4baf02352169ceb8021676c6c8fd253f.js",
+    "service-worker.js": "/mishuleu15/Shopping-Cart/service-worker.js",
+    "static/css/main.f8fb891a.chunk.css.map": "/mishuleu15/Shopping-Cart/static/css/main.f8fb891a.chunk.css.map",
+    "static/js/2.5b012ebe.chunk.js.LICENSE.txt": "/mishuleu15/Shopping-Cart/static/js/2.5b012ebe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09f463c6.js",
+    "static/js/2.5b012ebe.chunk.js",
+    "static/css/main.f8fb891a.chunk.css",
+    "static/js/main.dae72311.chunk.js"
+  ]
+}
